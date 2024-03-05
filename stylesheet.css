@@ -10,9 +10,15 @@ header {
     text-align: center;
 }
 
-section {
-    margin: 20px;
-    padding: 10px;
-    background-color: white;
-    border-radius: 5px;
+.red-uppercase {
+    color: red;
+    text-transform: uppercase;
+}
+
+#highlight {
+    background-color: yellow;
+}
+
+a:hover {
+    color: palevioletred; 
 }
